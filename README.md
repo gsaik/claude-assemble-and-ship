@@ -29,7 +29,7 @@ Triggered automatically when you ask Claude to review your recent changes (e.g. 
 
 - **high** — bugs or missing error handling that could cause failures
 - **medium** — logic issues or unclear names worth fixing before merge
-- **low** — style and readability suggestions
+- **low** — style and readability suggestions 
 
 ## Usage
 
